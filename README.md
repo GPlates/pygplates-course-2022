@@ -5,13 +5,13 @@
 This repository *will* contain jupyter notebooks showcasing some of the ways in which you can use `pygplates`. It accompanies the 2022 GPlates and pyGPlates workshop.
 
 ## Notebook ideas
-1. Getting started
-- Reconstructing points
-- motion paths and flowlines?
-- calculate spreading rate?
-- animation?
+1. Quick intro to Python and Jupyter
+2. Getting started with PyGPlates: reconstructing points
+3. Motion paths and flowlines
+4. calculate spreading rate?
+5. Reconstructing larger datasets?
+6. Velocities and an animation?
 - machine learning example?
-
 
 
 ##
