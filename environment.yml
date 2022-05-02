@@ -1,0 +1,19 @@
+name: mapping
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - netcdf4
+  - geopandas
+  - cartopy
+  - jupyter
+  - rasterio
+  - pandas
+  - pooch
+  - tqdm
+  - conda-build
+  - h5py
+  - openpyxl
+  - scikit-image
+  - seaborn
+prefix: /Users/ben/miniforge3/envs/mapping
