@@ -9,7 +9,7 @@ This repository contains jupyter notebooks showcasing some of the ways in which 
 1. Quick intro to Python and Jupyter
 2. Getting started with PyGPlates: reconstructing points and coastlines
 3. Motion paths and flowlines
-4. calculate spreading rate?
+4. Spreading and subduction rates
 5. Reconstructing larger datasets
 6. Velocities and an animation
 
