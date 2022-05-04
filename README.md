@@ -23,7 +23,7 @@ More `pygplates` notebooks can be found [here](https://github.com/GPlates/pygpla
 
 The course will be held entirely online in the browser using the [edstem](http://edstem.org) platform, so no installation is necessary. However, if you wish to install pyGPlates on your own machine after the course then here are some instructions.
 
-1. Download and install the latest [pygplates version](https://cloudstor.aarnet.edu.au/plus/s/U2zuFXi9yVoVOAf) corresponding to your system architecture and operating system (Windows, Mac OS (Intel and ARM), Ubuntu are all supported) and take note of the installation directory and python path.
+1. Download and install the latest [pygplates version](https://www.earthbyte.org/download-pygplates-0-36/) corresponding to your system architecture and operating system (Windows, Mac OS (Intel and ARM), Ubuntu are all supported) and take note of the installation directory and python path.
 2. Install conda (we recommend [miniforge](https://github.com/conda-forge/miniforge)) and create a new environment e.g. `conda create -n pygplates python=3.9`.
 3. Activate your new python environment with `conda activate pygplates`
 4. Install the following dependencies: `conda install numpy scipy netcdf4 geopandas pandas cartopy jupyter rasterio conda-build`
